@@ -19,3 +19,4 @@ Cream Cheese Frosting:
 2 teaspoons pure vanilla extract
 4 cups confectioners (or icing) sugar
 1 tablespoon lemon juice (optional -- adds subtle hint of lemon)
+--
